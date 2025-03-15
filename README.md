@@ -1,7 +1,3 @@
-ChatGPT 4o
-You said:
-Using the list below. Add home page url for each of bullet item.
-
 # awesome-everyday-ai-tools
 A collection of awesome AI tools for everyday life
 
