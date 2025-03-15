@@ -48,6 +48,10 @@ A collection of awesome AI tools for everyday life
 - [V0.dev](https://v0.dev)
 - [Bolt.new](https://bolt.new)
 - [Lovable.dev](https://lovable.dev)
+- [TeleportHQ](https://teleporthq.io)
+- [Anima](https://www.animaapp.com)
+- [Framer](https://www.framer.com)
+- [Uizard](https://uizard.io)
 
 ### Design Prototyping
 - [Wireframe Designer](https://wireframedesigner.com)
@@ -60,6 +64,11 @@ A collection of awesome AI tools for everyday life
 
 ### Workflow Orchestration
 - [Zapier](https://zapier.com)
+- [Make](https://www.make.com)
+- [n8n](https://n8n.io)
+- [Airflow](https://airflow.apache.org)
+- [Pipedream](https://pipedream.com)
+- [Automate.io](https://automate.io)
 
 ### References
 - [How to Turn an Idea into a Prototype with AI](https://medium.com/design-bootcamp/how-to-turn-an-idea-into-a-prototype-with-ai-30bb3a1b5d13)
