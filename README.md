@@ -23,7 +23,6 @@ A collection of awesome AI tools for everyday life
 - [Qodo](https://qodo.ai)
 - [Codium](https://codium.ai)
 - [Replit](https://replit.com)
-- [Codex](https://openai.com/research/codex)
 - [DeepCode](https://deepcode.ai)
 - [Codiga](https://codiga.io)
 - [AskCodi](https://askcodi.com)
