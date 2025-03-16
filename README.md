@@ -4,18 +4,17 @@ A collection of awesome AI tools for everyday life
 ### General Purpose AI Assistants
 - [ChatGPT](https://chat.openai.com)
 - [Gemini](https://gemini.google.com/app)
-- [Copilot](https://github.com/features/copilot)
-- [Claude](https://claude.ai)
+- [Copilot](https://copilot.microsoft.com/)
+- [Claude](https://claude.ai/chat/)
 - [Meta AI](https://ai.facebook.com)
-- [Deepseek](https://deepseek.ai)
+- [Deepseek](https://chat.deepseek.com/)
+- [Grok](https://grok.com)
 - [Perplexity](https://perplexity.ai)
 - [Jasper](https://www.jasper.ai)
-- [Grok](https://grok.com)
 - [Zapier](https://zapier.com)
 - [Poe](https://poe.com)
-- [Mistral](https://mistral.ai)
+- [Mistral](https://chat.mistral.ai/)
 - [Personal](https://personal.ai)
-- [ZenoChat](https://zenochat.ai)
 
 ### Code Generation
 - [GitHub Copilot](https://github.com/features/copilot)
