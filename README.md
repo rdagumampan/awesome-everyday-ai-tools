@@ -47,6 +47,7 @@ A collection of awesome AI tools for everyday life
 - [V0.dev](https://v0.dev)
 - [Bolt.new](https://bolt.new)
 - [Lovable.dev](https://lovable.dev)
+- [Replit](https://replit.com)
 - [TeleportHQ](https://teleporthq.io)
 - [Anima](https://www.animaapp.com)
 - [Framer](https://www.framer.com)
