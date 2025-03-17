@@ -29,18 +29,18 @@ A collection of awesome AI tools for everyday life
 
 ### Visual Generation (Image/Video)
 - [Sora](https://sora.com)
-- [DALL-E3](https://openai.com/product/dall-e-3)
+- [DALL-E3](https://openai.com/index/dall-e-3/)
 - [Stable Diffusion](https://stability.ai)
 - [Midjourney](https://midjourney.com)
 - [ImageFX](https://imgfx.ai/)
-- [Firefly](https://firefly.adobe.com)
 - [Emu](https://emu-video.metademolab.com/)
-- [Flux](https://flux.ai)
+- [Flux](https://flux-ai.io/)
 - [Leonardo](https://leonardo.ai)
-- [Canva](https://canva.com)
 - [Synthopic](https://www.synthopic.ai/)
 - [DeepAI](https://deepai.org)
+- [Adobe Firefly](https://firefly.adobe.com)
 - [Adobe Express](https://express.adobe.com)
+- [Canva](https://canva.com)
 
 ### Design Prototyping with Code
 - [V0.dev](https://v0.dev)
