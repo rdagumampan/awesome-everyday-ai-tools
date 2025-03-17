@@ -84,7 +84,7 @@ A collection of awesome AI tools for everyday life
 - [Fireflies AI](https://fireflies.ai)
 - [Tactiq](https://tactiq.io)
 
-### AI-Powered Data Analysis & Business Intelligence
+### AI for Data Analysis & Business Intelligence
 - [Tableau AI](https://www.tableau.com)
 - [Power BI](https://powerbi.microsoft.com)
 - [Google Looker](https://looker.com)
