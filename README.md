@@ -67,7 +67,6 @@ A collection of awesome AI tools for everyday life
 - [n8n](https://n8n.io)
 - [Airflow](https://airflow.apache.org)
 - [Pipedream](https://pipedream.com)
-- [Automate.io](https://automate.io)
 
 ### AI for Productivity & Note-Taking
 - [Notion AI](https://www.notion.so/product/ai)
