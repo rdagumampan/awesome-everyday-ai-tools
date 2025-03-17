@@ -16,6 +16,12 @@ A collection of awesome AI tools for everyday life
 - [Mistral](https://chat.mistral.ai/)
 - [Personal](https://personal.ai)
 
+### Deep Research
+- [ChatGPT](https://chat.openai.com)
+- [Gemini](https://gemini.google.com/app)
+- [Perplexity](https://perplexity.ai)
+- [Manus](https://manus.im/)
+   
 ### Code Generation
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Tabnine](https://tabnine.com)
@@ -81,13 +87,12 @@ A collection of awesome AI tools for everyday life
 ### AI-Powered Data Analysis & Business Intelligence
 - [Tableau AI](https://www.tableau.com)
 - [Power BI](https://powerbi.microsoft.com)
-- [MonkeyLearn](https://monkeylearn.com)
+- [Google Looker](https://looker.com)
 - [DataRobot](https://www.datarobot.com)
 - [Alteryx](https://www.alteryx.com)
+- [MonkeyLearn](https://monkeylearn.com)
 - [Sisense](https://www.sisense.com)
 - [ThoughtSpot](https://www.thoughtspot.com)
-- [IBM Watson Analytics](https://www.ibm.com/watson-analytics)
-- [Google Looker](https://looker.com)
 
 ### Speech & Voice AI
 - [ElevenLabs](https://elevenlabs.io)
@@ -96,8 +101,6 @@ A collection of awesome AI tools for everyday life
 - [Speechify](https://www.speechify.com)
 - [Deepgram](https://deepgram.com)
 - [Resemble AI](https://www.resemble.ai)
-- [iSpeech](https://www.ispeech.org)
-- [Coqui AI](https://coqui.ai)
 
 ### References
 - [How to Turn an Idea into a Prototype with AI](https://medium.com/design-bootcamp/how-to-turn-an-idea-into-a-prototype-with-ai-30bb3a1b5d13)
