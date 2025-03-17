@@ -27,18 +27,18 @@ A collection of awesome AI tools for everyday life
 - [Codiga](https://codiga.io)
 - [AskCodi](https://askcodi.com)
 
-### Visual Generation
+### Visual Generation (Image/Video)
 - [Sora](https://sora.com)
 - [DALL-E3](https://openai.com/product/dall-e-3)
 - [Stable Diffusion](https://stability.ai)
 - [Midjourney](https://midjourney.com)
-- [ImageFX](https://imagefx.ai)
+- [ImageFX](https://imgfx.ai/)
 - [Firefly](https://firefly.adobe.com)
-- [Emu](https://emu.com)
+- [Emu](https://emu-video.metademolab.com/)
 - [Flux](https://flux.ai)
 - [Leonardo](https://leonardo.ai)
 - [Canva](https://canva.com)
-- [Synthopic](https://synthopic.com)
+- [Synthopic](https://www.synthopic.ai/)
 - [DeepAI](https://deepai.org)
 - [Adobe Express](https://express.adobe.com)
 
