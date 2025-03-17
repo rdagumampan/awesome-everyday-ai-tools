@@ -64,8 +64,6 @@ A collection of awesome AI tools for everyday life
 - [Uizard](https://uizard.io)
 - [Galileo AI](https://galileo.ai)
 - [Framer AI](https://framer.com/ai)
-- [Musho AI](https://musho.ai)
-- [Relume AI](https://relume.io/ai)
 
 ### Workflow Orchestration
 - [Zapier](https://zapier.com)
